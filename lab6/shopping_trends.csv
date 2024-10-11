@@ -1,0 +1,351 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Color,Season,Review Rating,Promo Code Used,Previous Purchases,Frequency of Purchases
+1,55,Male,Blouse,Clothing,53,Gray,Winter,3.1,Yes,14,Fortnightly
+2,19,Male,Sweater,Clothing,64,Maroon,Winter,3.1,Yes,2,Fortnightly
+3,50,Male,Jeans,Clothing,73,Maroon,Spring,3.1,Yes,23,Weekly
+4,21,Male,Sandals,Footwear,90,Maroon,Spring,3.5,Yes,49,Weekly
+5,45,Male,Blouse,Clothing,49,Turquoise,Spring,2.7,Yes,31,Annually
+6,46,Male,Sneakers,Footwear,20,White,Summer,2.9,Yes,14,Weekly
+7,63,Male,Shirt,Clothing,85,Gray,Fall,3.2,Yes,49,Quarterly
+8,27,Male,Shorts,Clothing,34,Charcoal,Winter,3.2,Yes,19,Weekly
+9,26,Male,Coat,Outerwear,97,Silver,Summer,2.6,Yes,8,Annually
+10,57,Male,Handbag,Accessories,31,Pink,Spring,4.8,Yes,4,Quarterly
+11,53,Male,Shoes,Footwear,34,Purple,Fall,4.1,Yes,26,Bi-Weekly
+12,30,Male,Shorts,Clothing,68,Olive,Winter,4.9,Yes,10,Fortnightly
+13,61,Male,Coat,Outerwear,72,Gold,Winter,4.5,Yes,37,Fortnightly
+14,65,Male,Dress,Clothing,51,Violet,Spring,4.7,Yes,31,Weekly
+15,64,Male,Coat,Outerwear,53,Teal,Winter,4.7,Yes,34,Weekly
+16,64,Male,Skirt,Clothing,81,Teal,Winter,2.8,Yes,8,Monthly
+17,25,Male,Sunglasses,Accessories,36,Gray,Spring,4.1,Yes,44,Bi-Weekly
+18,53,Male,Dress,Clothing,38,Lavender,Winter,4.7,Yes,36,Quarterly
+19,52,Male,Sweater,Clothing,48,Black,Summer,4.6,Yes,17,Weekly
+20,66,Male,Pants,Clothing,90,Green,Summer,3.3,Yes,46,Bi-Weekly
+21,21,Male,Pants,Clothing,51,Black,Winter,2.8,Yes,50,Every 3 Months
+22,31,Male,Pants,Clothing,62,Charcoal,Winter,4.1,Yes,22,Quarterly
+23,56,Male,Pants,Clothing,37,Peach,Summer,3.2,Yes,32,Annually
+24,31,Male,Pants,Clothing,88,White,Winter,4.4,Yes,40,Weekly
+25,18,Male,Jacket,Outerwear,22,Green,Fall,2.9,Yes,16,Weekly
+26,18,Male,Hoodie,Clothing,25,Silver,Summer,3.6,Yes,14,Annually
+27,38,Male,Jewelry,Accessories,20,Red,Spring,3.6,Yes,13,Annually
+28,56,Male,Shorts,Clothing,56,Cyan,Summer,5,Yes,7,Every 3 Months
+29,54,Male,Handbag,Accessories,94,Gray,Fall,4.4,Yes,41,Every 3 Months
+30,31,Male,Dress,Clothing,48,Black,Fall,4.1,Yes,14,Weekly
+31,57,Male,Jewelry,Accessories,31,Black,Winter,4.7,Yes,16,Monthly
+32,33,Male,Dress,Clothing,79,Brown,Winter,4.7,Yes,45,Monthly
+33,36,Male,Jacket,Outerwear,67,Silver,Summer,4.9,Yes,37,Annually
+34,54,Male,Pants,Clothing,38,Green,Summer,3.3,Yes,45,Quarterly
+35,36,Male,T-shirt,Clothing,91,Violet,Spring,4.6,Yes,38,Quarterly
+36,54,Male,Blouse,Clothing,33,Cyan,Summer,4,Yes,48,Bi-Weekly
+37,35,Male,T-shirt,Clothing,69,Maroon,Winter,4.6,Yes,44,Fortnightly
+38,35,Male,Jeans,Clothing,45,Cyan,Summer,2.8,Yes,10,Weekly
+39,29,Male,Dress,Clothing,37,Red,Winter,3.7,Yes,44,Every 3 Months
+40,70,Male,Pants,Clothing,60,Turquoise,Summer,4.2,Yes,18,Monthly
+41,69,Male,Handbag,Accessories,76,Beige,Winter,4.6,Yes,31,Quarterly
+42,67,Male,Scarf,Accessories,39,Orange,Spring,4.5,Yes,40,Annually
+43,20,Male,Coat,Outerwear,100,Beige,Spring,4.1,Yes,15,Annually
+44,25,Male,Scarf,Accessories,69,Lavender,Fall,3.7,Yes,19,Fortnightly
+45,39,Male,Hat,Accessories,53,Silver,Summer,4.6,Yes,45,Weekly
+46,50,Male,Socks,Clothing,21,Indigo,Fall,2.9,Yes,25,Annually
+47,57,Male,Shirt,Clothing,43,White,Summer,2.9,Yes,45,Quarterly
+48,55,Male,Jewelry,Accessories,54,Charcoal,Winter,4.5,Yes,36,Weekly
+49,42,Male,Shirt,Clothing,55,Orange,Summer,2.7,Yes,38,Monthly
+50,68,Male,Hoodie,Clothing,30,Indigo,Spring,4.6,Yes,34,Bi-Weekly
+51,49,Male,Blouse,Clothing,28,Red,Spring,3.7,Yes,39,Bi-Weekly
+52,59,Male,Skirt,Clothing,59,Gray,Winter,4.7,Yes,7,Quarterly
+53,42,Male,T-shirt,Clothing,20,Green,Summer,2.6,Yes,26,Weekly
+54,29,Male,Skirt,Clothing,24,Peach,Winter,3.9,Yes,35,Weekly
+55,47,Male,Coat,Outerwear,94,Brown,Summer,4.2,Yes,35,Bi-Weekly
+56,40,Male,Jacket,Outerwear,28,Lavender,Winter,3,Yes,49,Annually
+57,41,Male,Backpack,Accessories,73,Brown,Summer,4.7,Yes,46,Weekly
+58,21,Male,Coat,Outerwear,64,White,Summer,4.4,Yes,17,Fortnightly
+59,69,Male,Hoodie,Clothing,54,Charcoal,Summer,4.2,Yes,29,Monthly
+60,63,Male,Belt,Accessories,79,Yellow,Spring,4.6,Yes,4,Weekly
+61,50,Male,Sweater,Clothing,37,Brown,Summer,4,Yes,17,Weekly
+62,55,Male,Scarf,Accessories,68,Orange,Winter,4.7,Yes,21,Every 3 Months
+63,30,Male,Sneakers,Footwear,21,Magenta,Spring,3.8,Yes,31,Fortnightly
+64,33,Male,Sunglasses,Accessories,79,Lavender,Winter,2.7,Yes,43,Weekly
+65,65,Male,Boots,Footwear,83,Green,Fall,4.8,Yes,18,Fortnightly
+66,65,Male,Backpack,Accessories,36,Purple,Spring,4.8,Yes,44,Every 3 Months
+67,31,Male,Blouse,Clothing,94,Magenta,Winter,4.7,Yes,3,Every 3 Months
+68,45,Male,Coat,Outerwear,33,Gray,Winter,4.4,Yes,49,Monthly
+69,57,Male,Handbag,Accessories,46,Silver,Summer,3.9,Yes,21,Every 3 Months
+70,48,Male,Belt,Accessories,70,Cyan,Summer,4.4,Yes,5,Weekly
+71,22,Male,Belt,Accessories,29,Magenta,Fall,4.2,Yes,32,Every 3 Months
+72,36,Male,Dress,Clothing,48,Gold,Summer,2.9,Yes,34,Annually
+73,18,Male,Dress,Clothing,26,Olive,Winter,2.9,Yes,21,Every 3 Months
+74,48,Male,Pants,Clothing,85,Teal,Spring,2.7,Yes,43,Bi-Weekly
+75,49,Male,Gloves,Accessories,58,Violet,Spring,4.5,Yes,3,Monthly
+76,64,Male,Scarf,Accessories,85,Blue,Summer,2.7,Yes,21,Annually
+77,50,Male,Hat,Accessories,43,Teal,Summer,4.2,Yes,32,Monthly
+78,22,Male,Dress,Clothing,53,Gold,Summer,3.3,Yes,36,Fortnightly
+79,50,Male,Skirt,Clothing,91,Maroon,Spring,4.7,Yes,50,Fortnightly
+80,38,Male,Jacket,Outerwear,96,Olive,Winter,2.6,Yes,43,Every 3 Months
+81,19,Male,Sandals,Footwear,72,Blue,Summer,3.3,Yes,24,Every 3 Months
+82,67,Male,Shoes,Footwear,96,Maroon,Summer,2.6,Yes,36,Every 3 Months
+83,19,Male,Pants,Clothing,28,Olive,Spring,4,Yes,21,Every 3 Months
+84,36,Male,Dress,Clothing,40,Turquoise,Summer,4.1,Yes,34,Weekly
+85,52,Male,Coat,Outerwear,32,Peach,Spring,4.4,Yes,42,Every 3 Months
+86,53,Male,Sunglasses,Accessories,95,Charcoal,Winter,4.5,Yes,2,Bi-Weekly
+87,24,Male,Hoodie,Clothing,41,Pink,Spring,3.7,Yes,47,Bi-Weekly
+88,52,Male,Shoes,Footwear,53,Green,Fall,3.7,Yes,44,Fortnightly
+89,33,Male,T-shirt,Clothing,47,Orange,Fall,3.5,Yes,35,Monthly
+90,47,Male,Jacket,Outerwear,83,Pink,Fall,3.6,Yes,15,Quarterly
+91,25,Male,Hat,Accessories,48,Violet,Summer,2.9,Yes,29,Monthly
+92,44,Male,Scarf,Accessories,99,Green,Winter,4.6,Yes,18,Every 3 Months
+93,61,Male,Jacket,Outerwear,87,Olive,Winter,4.4,Yes,13,Every 3 Months
+94,37,Male,Sweater,Clothing,62,Purple,Fall,4.5,Yes,46,Weekly
+95,58,Male,Skirt,Clothing,76,Silver,Spring,4.6,Yes,28,Weekly
+96,37,Male,Sneakers,Footwear,100,Pink,Fall,3.8,Yes,48,Monthly
+97,32,Male,Gloves,Accessories,73,Gold,Spring,3.6,Yes,43,Every 3 Months
+98,21,Male,Shoes,Footwear,92,Teal,Winter,4.8,Yes,37,Annually
+99,20,Male,Jeans,Clothing,67,Teal,Spring,2.6,Yes,20,Annually
+100,26,Male,Hoodie,Clothing,40,Indigo,Summer,3.7,Yes,33,Quarterly
+101,62,Male,Sunglasses,Accessories,98,Maroon,Fall,2.7,Yes,31,Fortnightly
+102,27,Male,Coat,Outerwear,85,White,Spring,4.6,Yes,50,Bi-Weekly
+103,51,Male,Socks,Clothing,67,Violet,Winter,4.8,Yes,35,Quarterly
+104,54,Male,Boots,Footwear,89,Red,Winter,4,Yes,22,Bi-Weekly
+105,55,Male,Sunglasses,Accessories,24,Pink,Spring,4.4,Yes,1,Monthly
+106,69,Male,Backpack,Accessories,96,Charcoal,Fall,3.6,Yes,4,Annually
+107,64,Male,Jacket,Outerwear,35,White,Summer,3.7,Yes,31,Monthly
+108,28,Male,Sneakers,Footwear,67,Olive,Winter,3.1,Yes,46,Fortnightly
+109,70,Male,Socks,Clothing,79,Purple,Spring,3.4,Yes,32,Bi-Weekly
+110,58,Male,T-shirt,Clothing,85,Violet,Spring,2.6,Yes,43,Fortnightly
+111,56,Male,Backpack,Accessories,26,Black,Summer,4,Yes,26,Fortnightly
+112,26,Male,Belt,Accessories,75,Purple,Summer,5,Yes,9,Annually
+113,37,Male,Gloves,Accessories,65,Red,Spring,4.3,Yes,28,Bi-Weekly
+114,44,Male,Hat,Accessories,54,Maroon,Winter,3.1,Yes,20,Quarterly
+115,70,Male,Coat,Outerwear,95,Blue,Summer,3.7,Yes,9,Weekly
+116,53,Male,Skirt,Clothing,94,Gray,Spring,3.8,Yes,48,Every 3 Months
+117,55,Male,Shoes,Footwear,86,Blue,Spring,3.4,Yes,12,Annually
+118,50,Male,Sandals,Footwear,32,Yellow,Summer,4.6,Yes,29,Fortnightly
+119,50,Male,Sweater,Clothing,45,Orange,Fall,4.8,Yes,27,Bi-Weekly
+120,38,Male,Coat,Outerwear,76,Orange,Fall,4.3,Yes,44,Annually
+121,64,Male,Hat,Accessories,84,Red,Summer,4,Yes,32,Annually
+122,19,Male,Shorts,Clothing,72,Olive,Winter,4.2,Yes,11,Fortnightly
+123,40,Male,Backpack,Accessories,40,Brown,Spring,4.8,Yes,44,Fortnightly
+124,57,Male,Sweater,Clothing,89,Brown,Fall,3.1,Yes,46,Weekly
+125,44,Male,Sweater,Clothing,86,Gray,Spring,3.1,Yes,50,Annually
+126,49,Male,Shorts,Clothing,54,Indigo,Winter,3.6,Yes,45,Every 3 Months
+127,43,Male,Shorts,Clothing,36,Pink,Spring,3.9,Yes,48,Every 3 Months
+128,24,Male,Sweater,Clothing,89,Gray,Winter,4.8,Yes,26,Weekly
+129,20,Male,Scarf,Accessories,32,Gold,Spring,4.7,Yes,21,Fortnightly
+130,24,Male,Dress,Clothing,67,Olive,Summer,4.2,Yes,49,Bi-Weekly
+131,44,Male,Scarf,Accessories,39,Violet,Fall,3.7,Yes,13,Fortnightly
+132,28,Male,Skirt,Clothing,29,Indigo,Summer,3.9,Yes,46,Weekly
+133,30,Male,Backpack,Accessories,58,Orange,Fall,4.7,Yes,42,Weekly
+134,52,Male,Sweater,Clothing,65,Violet,Winter,2.5,Yes,25,Annually
+135,43,Male,Hat,Accessories,94,Gray,Fall,4.9,Yes,25,Monthly
+136,43,Male,Sandals,Footwear,81,Purple,Fall,4.1,Yes,12,Quarterly
+137,39,Male,Blouse,Clothing,86,White,Winter,3.3,Yes,4,Quarterly
+138,68,Male,Sneakers,Footwear,43,Turquoise,Spring,4.7,Yes,38,Weekly
+139,68,Male,Skirt,Clothing,29,Maroon,Winter,4.4,Yes,42,Weekly
+140,49,Male,Coat,Outerwear,95,White,Fall,3.8,Yes,30,Annually
+141,63,Male,Shirt,Clothing,28,Yellow,Fall,3.9,Yes,50,Weekly
+142,56,Male,Gloves,Accessories,46,Turquoise,Fall,4.9,Yes,45,Weekly
+143,37,Male,Jacket,Outerwear,58,Violet,Fall,3.1,Yes,33,Fortnightly
+144,30,Male,Coat,Outerwear,48,Beige,Fall,2.7,Yes,25,Quarterly
+145,19,Male,Shoes,Footwear,43,Silver,Fall,3.2,Yes,25,Monthly
+146,24,Male,Jewelry,Accessories,95,Teal,Fall,4.5,Yes,44,Quarterly
+147,52,Male,Skirt,Clothing,30,Black,Fall,4,Yes,21,Fortnightly
+148,63,Male,Shoes,Footwear,64,Purple,Summer,3.5,Yes,31,Fortnightly
+149,37,Male,Gloves,Accessories,90,Gray,Fall,2.6,Yes,47,Annually
+150,38,Male,Pants,Clothing,76,White,Summer,3.2,Yes,14,Monthly
+151,35,Male,Boots,Footwear,96,Cyan,Fall,4.9,Yes,17,Every 3 Months
+152,28,Male,Sunglasses,Accessories,47,Turquoise,Fall,4.5,Yes,3,Annually
+153,30,Male,Shirt,Clothing,85,Brown,Summer,4.3,Yes,42,Annually
+154,69,Male,Hoodie,Clothing,55,Maroon,Winter,3.2,Yes,22,Annually
+155,41,Male,Dress,Clothing,98,Charcoal,Fall,3.6,Yes,21,Quarterly
+156,63,Male,Socks,Clothing,77,Olive,Spring,4.3,Yes,21,Quarterly
+157,35,Male,Shorts,Clothing,26,Lavender,Fall,4,Yes,40,Annually
+158,36,Male,Hat,Accessories,68,Yellow,Fall,3,Yes,1,Fortnightly
+159,25,Male,Shirt,Clothing,73,Teal,Fall,4.1,Yes,50,Monthly
+160,58,Male,Gloves,Accessories,27,Charcoal,Fall,3.8,Yes,39,Every 3 Months
+161,27,Male,Gloves,Accessories,23,Orange,Summer,4.6,Yes,34,Monthly
+162,65,Male,Backpack,Accessories,49,Olive,Fall,3,Yes,29,Fortnightly
+163,54,Male,Sunglasses,Accessories,74,Turquoise,Summer,3,Yes,31,Bi-Weekly
+164,54,Male,Skirt,Clothing,67,Purple,Summer,3.4,Yes,8,Weekly
+165,59,Male,Handbag,Accessories,65,Purple,Spring,2.6,Yes,5,Fortnightly
+166,42,Male,Handbag,Accessories,60,Yellow,Winter,2.8,Yes,7,Monthly
+167,46,Male,Sneakers,Footwear,31,Indigo,Fall,4,Yes,30,Monthly
+168,33,Male,Gloves,Accessories,27,Green,Fall,4,Yes,14,Every 3 Months
+169,34,Male,Shoes,Footwear,80,Magenta,Summer,3,Yes,5,Fortnightly
+170,27,Male,Jacket,Outerwear,30,Gold,Summer,3.3,Yes,3,Every 3 Months
+171,52,Male,Shirt,Clothing,25,Maroon,Fall,2.6,Yes,46,Bi-Weekly
+172,29,Male,Shorts,Clothing,35,Blue,Summer,3.6,Yes,4,Weekly
+173,54,Male,Jewelry,Accessories,67,Violet,Summer,3.9,Yes,42,Bi-Weekly
+174,25,Male,Hat,Accessories,46,Turquoise,Fall,3.4,Yes,30,Annually
+175,41,Male,Shoes,Footwear,35,Brown,Winter,3.5,Yes,37,Annually
+176,53,Male,Coat,Outerwear,86,Violet,Fall,2.8,Yes,2,Annually
+177,53,Male,Backpack,Accessories,81,Black,Spring,2.7,Yes,30,Quarterly
+178,21,Male,Hoodie,Clothing,42,Magenta,Fall,3.7,Yes,47,Monthly
+179,61,Male,Skirt,Clothing,43,Lavender,Fall,4.3,Yes,21,Quarterly
+180,64,Male,Boots,Footwear,31,Violet,Fall,4.9,Yes,9,Fortnightly
+181,51,Male,Sandals,Footwear,81,Green,Fall,3.3,Yes,12,Fortnightly
+182,32,Male,Pants,Clothing,61,Beige,Summer,4.7,Yes,4,Weekly
+183,38,Male,Gloves,Accessories,96,Purple,Summer,2.8,Yes,10,Annually
+184,58,Male,Skirt,Clothing,29,Beige,Spring,3.6,Yes,26,Weekly
+185,32,Male,Sneakers,Footwear,33,Cyan,Spring,3,Yes,40,Fortnightly
+186,46,Male,T-shirt,Clothing,32,Silver,Summer,4.5,Yes,34,Fortnightly
+187,39,Male,Backpack,Accessories,56,Lavender,Summer,2.9,Yes,31,Annually
+188,19,Male,Shoes,Footwear,94,Purple,Spring,3.3,Yes,1,Bi-Weekly
+189,50,Male,Hoodie,Clothing,53,Pink,Spring,3.1,Yes,5,Bi-Weekly
+190,36,Male,Blouse,Clothing,82,Maroon,Fall,4.4,Yes,4,Weekly
+191,65,Male,Coat,Outerwear,70,Beige,Fall,3,Yes,48,Quarterly
+192,64,Male,Hat,Accessories,76,Gray,Fall,3.9,Yes,29,Every 3 Months
+193,46,Male,Shoes,Footwear,29,Turquoise,Summer,2.9,Yes,12,Bi-Weekly
+194,36,Male,Belt,Accessories,100,Silver,Fall,3,Yes,29,Annually
+195,51,Male,Backpack,Accessories,94,Olive,Spring,3.1,Yes,15,Quarterly
+196,51,Male,Jacket,Outerwear,25,Magenta,Fall,4.3,Yes,34,Monthly
+197,38,Male,Boots,Footwear,88,Lavender,Summer,3.9,Yes,41,Fortnightly
+198,59,Male,Scarf,Accessories,78,Black,Fall,3.2,Yes,41,Monthly
+199,57,Male,Jewelry,Accessories,45,Turquoise,Winter,4.8,Yes,39,Fortnightly
+200,54,Male,Hat,Accessories,73,Green,Summer,3.8,Yes,32,Weekly
+201,25,Male,Dress,Clothing,61,Teal,Summer,3.3,Yes,29,Monthly
+202,69,Male,Blouse,Clothing,22,Beige,Fall,4.3,Yes,15,Annually
+203,57,Male,Hat,Accessories,38,Magenta,Spring,2.7,Yes,33,Annually
+204,70,Male,Scarf,Accessories,38,Yellow,Fall,3.2,Yes,18,Weekly
+205,24,Male,Sneakers,Footwear,100,Yellow,Fall,4,Yes,35,Bi-Weekly
+206,67,Male,Shirt,Clothing,64,Silver,Winter,3,Yes,25,Weekly
+207,24,Male,T-shirt,Clothing,55,Silver,Summer,4.2,Yes,6,Fortnightly
+208,62,Male,Gloves,Accessories,91,Silver,Summer,2.9,Yes,17,Bi-Weekly
+209,57,Male,Skirt,Clothing,38,Gold,Spring,4.1,Yes,17,Monthly
+210,55,Male,Sandals,Footwear,97,Olive,Winter,3.2,Yes,44,Every 3 Months
+211,45,Male,Jacket,Outerwear,22,Teal,Fall,3,Yes,6,Fortnightly
+212,69,Male,Skirt,Clothing,92,Maroon,Fall,4.2,Yes,45,Fortnightly
+213,67,Male,Handbag,Accessories,84,Blue,Fall,4.2,Yes,7,Annually
+214,30,Male,Handbag,Accessories,93,Peach,Fall,4.4,Yes,11,Every 3 Months
+215,24,Male,Jacket,Outerwear,50,Blue,Summer,4.2,Yes,41,Every 3 Months
+216,62,Male,Scarf,Accessories,64,Orange,Spring,2.8,Yes,24,Bi-Weekly
+217,43,Male,Shorts,Clothing,61,Yellow,Spring,3.7,Yes,21,Weekly
+218,35,Male,Sunglasses,Accessories,48,Purple,Winter,3.5,Yes,24,Annually
+219,28,Male,T-shirt,Clothing,45,Magenta,Spring,2.9,Yes,8,Quarterly
+220,32,Male,Belt,Accessories,88,Cyan,Spring,3,Yes,12,Fortnightly
+221,39,Male,Sneakers,Footwear,57,Indigo,Spring,3.7,Yes,48,Fortnightly
+222,28,Male,Hat,Accessories,68,Magenta,Summer,4.4,Yes,6,Quarterly
+223,47,Male,Gloves,Accessories,94,Gray,Spring,4.5,Yes,14,Fortnightly
+224,20,Male,Pants,Clothing,41,Turquoise,Spring,4.8,Yes,34,Annually
+225,63,Male,Socks,Clothing,83,Beige,Summer,2.9,Yes,12,Every 3 Months
+226,25,Male,Jacket,Outerwear,22,Olive,Spring,3.2,Yes,11,Annually
+227,29,Male,Shoes,Footwear,74,Violet,Spring,3.3,Yes,5,Monthly
+228,50,Male,Jeans,Clothing,90,Turquoise,Winter,4.2,Yes,25,Fortnightly
+229,18,Male,Socks,Clothing,79,White,Spring,2.9,Yes,11,Annually
+230,70,Male,Sandals,Footwear,28,Silver,Spring,4.6,Yes,27,Every 3 Months
+231,66,Male,Scarf,Accessories,88,Olive,Fall,4.1,Yes,43,Annually
+232,28,Male,Blouse,Clothing,26,Blue,Spring,3.1,Yes,18,Every 3 Months
+233,54,Male,Jewelry,Accessories,27,Purple,Winter,4.2,Yes,32,Bi-Weekly
+234,19,Male,Sweater,Clothing,83,Yellow,Fall,4.5,Yes,27,Every 3 Months
+235,20,Male,Gloves,Accessories,39,Silver,Summer,3.7,Yes,24,Weekly
+236,43,Male,Sunglasses,Accessories,89,Cyan,Winter,3.7,Yes,31,Quarterly
+237,38,Male,Coat,Outerwear,68,Green,Winter,3.4,Yes,39,Fortnightly
+238,50,Male,Dress,Clothing,90,Beige,Summer,3,Yes,36,Fortnightly
+239,64,Male,Skirt,Clothing,34,Peach,Fall,4.2,Yes,5,Annually
+240,49,Male,Pants,Clothing,51,Yellow,Summer,2.9,Yes,47,Bi-Weekly
+241,47,Male,Sweater,Clothing,45,Turquoise,Winter,3.5,Yes,29,Fortnightly
+242,36,Male,Hoodie,Clothing,88,Peach,Winter,4.1,Yes,43,Bi-Weekly
+243,55,Male,Coat,Outerwear,85,Gray,Summer,4.3,Yes,40,Every 3 Months
+244,25,Male,Jewelry,Accessories,100,Olive,Winter,2.8,Yes,4,Monthly
+245,53,Male,Belt,Accessories,42,Indigo,Spring,4.9,Yes,39,Weekly
+246,49,Male,Sandals,Footwear,53,Charcoal,Summer,3.3,Yes,45,Fortnightly
+247,35,Male,Sunglasses,Accessories,86,Beige,Spring,3.2,Yes,20,Bi-Weekly
+248,29,Male,Sweater,Clothing,66,Brown,Spring,4.4,Yes,14,Weekly
+249,47,Male,Belt,Accessories,100,Blue,Winter,4.8,Yes,33,Weekly
+250,53,Male,Handbag,Accessories,47,Teal,Fall,4.2,Yes,18,Annually
+251,33,Male,Skirt,Clothing,25,Black,Fall,4,Yes,9,Weekly
+252,21,Male,Handbag,Accessories,51,Gold,Winter,2.5,Yes,34,Annually
+253,32,Male,Shorts,Clothing,41,Violet,Summer,3.9,Yes,33,Fortnightly
+254,52,Male,Boots,Footwear,73,Cyan,Winter,4.9,Yes,15,Bi-Weekly
+255,67,Male,Sunglasses,Accessories,42,White,Winter,3.5,Yes,4,Bi-Weekly
+256,43,Male,Scarf,Accessories,20,Charcoal,Spring,4.2,Yes,25,Annually
+257,58,Male,Jewelry,Accessories,30,Violet,Spring,4.7,Yes,20,Every 3 Months
+258,20,Male,Handbag,Accessories,53,Red,Summer,4.5,Yes,5,Quarterly
+259,61,Male,Gloves,Accessories,74,Lavender,Spring,2.8,Yes,16,Quarterly
+260,32,Male,Jeans,Clothing,57,Gold,Fall,2.9,Yes,13,Annually
+261,38,Male,Hat,Accessories,57,Red,Winter,3.2,Yes,11,Every 3 Months
+262,21,Male,Jeans,Clothing,77,Magenta,Winter,4.9,Yes,21,Annually
+263,37,Male,Pants,Clothing,40,Teal,Summer,3.7,Yes,6,Annually
+264,27,Male,Shorts,Clothing,46,Purple,Summer,4.3,Yes,29,Monthly
+265,36,Male,Pants,Clothing,78,Charcoal,Fall,3.9,Yes,15,Annually
+266,32,Male,Backpack,Accessories,59,Gray,Spring,3.2,Yes,17,Bi-Weekly
+267,51,Male,Jewelry,Accessories,75,White,Summer,3.1,Yes,32,Weekly
+268,64,Male,Sweater,Clothing,54,Olive,Spring,3.9,Yes,42,Annually
+269,68,Male,Shoes,Footwear,42,Charcoal,Spring,2.6,Yes,21,Monthly
+270,68,Male,Blouse,Clothing,44,Charcoal,Winter,3.3,Yes,9,Bi-Weekly
+271,33,Male,Jeans,Clothing,52,Orange,Fall,4.6,Yes,16,Annually
+272,65,Male,Sunglasses,Accessories,69,Yellow,Summer,4.6,Yes,42,Fortnightly
+273,48,Male,Jewelry,Accessories,26,Beige,Summer,4.4,Yes,37,Bi-Weekly
+274,69,Male,Coat,Outerwear,33,Silver,Spring,4.2,Yes,32,Quarterly
+275,59,Male,Jewelry,Accessories,32,Indigo,Spring,3,Yes,28,Bi-Weekly
+276,48,Male,Backpack,Accessories,85,Lavender,Winter,4,Yes,13,Weekly
+277,25,Male,Skirt,Clothing,30,Turquoise,Fall,3.5,Yes,11,Fortnightly
+278,29,Male,Shirt,Clothing,29,Green,Winter,3,Yes,36,Bi-Weekly
+279,57,Male,Sweater,Clothing,95,Orange,Spring,3.7,Yes,23,Annually
+280,23,Male,Sneakers,Footwear,69,Turquoise,Summer,4,Yes,37,Monthly
+281,45,Male,Sandals,Footwear,69,Cyan,Fall,4.2,Yes,21,Bi-Weekly
+282,38,Male,Belt,Accessories,61,Charcoal,Spring,2.5,Yes,22,Bi-Weekly
+283,21,Male,Skirt,Clothing,94,Teal,Summer,3,Yes,9,Monthly
+284,32,Male,Sweater,Clothing,30,Maroon,Fall,3.2,Yes,16,Annually
+285,63,Male,Skirt,Clothing,45,Red,Summer,3.5,Yes,4,Quarterly
+286,29,Male,Handbag,Accessories,39,Yellow,Summer,4.8,Yes,3,Bi-Weekly
+287,27,Male,Jewelry,Accessories,51,Gray,Summer,2.6,Yes,6,Annually
+288,56,Male,Scarf,Accessories,37,Blue,Spring,3.4,Yes,18,Fortnightly
+289,30,Male,T-shirt,Clothing,62,Lavender,Winter,3.7,Yes,34,Bi-Weekly
+290,49,Male,Coat,Outerwear,85,Yellow,Fall,4.5,Yes,26,Monthly
+291,58,Male,T-shirt,Clothing,33,Indigo,Winter,3.7,Yes,50,Weekly
+292,57,Male,Dress,Clothing,26,Violet,Fall,3.3,Yes,40,Monthly
+293,60,Male,Shoes,Footwear,99,Green,Spring,4.7,Yes,24,Quarterly
+294,69,Male,Handbag,Accessories,39,White,Spring,2.7,Yes,33,Annually
+295,70,Male,Skirt,Clothing,20,Gold,Spring,4.6,Yes,19,Every 3 Months
+296,53,Male,Sunglasses,Accessories,42,Indigo,Winter,2.7,Yes,24,Quarterly
+297,25,Male,Sandals,Footwear,74,Lavender,Spring,4.8,Yes,19,Weekly
+298,48,Male,Shoes,Footwear,26,Purple,Summer,4.4,Yes,4,Bi-Weekly
+299,69,Male,T-shirt,Clothing,53,Lavender,Winter,4,Yes,11,Every 3 Months
+300,25,Male,Sneakers,Footwear,80,Maroon,Summer,3.2,Yes,28,Fortnightly
+301,29,Male,Hat,Accessories,98,Teal,Spring,4.4,Yes,24,Weekly
+302,46,Male,Skirt,Clothing,95,Green,Spring,3.8,Yes,25,Every 3 Months
+303,37,Male,Sweater,Clothing,44,Olive,Summer,3.6,Yes,27,Every 3 Months
+304,20,Male,Sandals,Footwear,60,Turquoise,Summer,3.3,Yes,49,Weekly
+305,40,Male,Dress,Clothing,84,Green,Winter,3.4,Yes,45,Bi-Weekly
+306,60,Male,Sweater,Clothing,59,Teal,Fall,3.5,Yes,26,Annually
+307,26,Male,Jacket,Outerwear,49,White,Summer,3.6,Yes,4,Annually
+308,29,Male,Gloves,Accessories,32,Orange,Winter,3.2,Yes,3,Every 3 Months
+309,66,Male,Handbag,Accessories,29,Beige,Fall,3.7,Yes,45,Bi-Weekly
+310,66,Male,Dress,Clothing,22,Yellow,Spring,4.5,Yes,21,Fortnightly
+311,56,Male,Pants,Clothing,85,Charcoal,Winter,4.6,Yes,50,Fortnightly
+312,69,Male,Jeans,Clothing,52,Silver,Winter,4.1,Yes,19,Monthly
+313,38,Male,Pants,Clothing,89,Green,Spring,3.4,Yes,6,Annually
+314,42,Male,Dress,Clothing,77,Pink,Spring,3.7,Yes,50,Every 3 Months
+315,30,Male,Pants,Clothing,24,Purple,Summer,3.3,Yes,17,Every 3 Months
+316,66,Male,Jewelry,Accessories,24,Orange,Spring,4.5,Yes,24,Annually
+317,36,Male,Handbag,Accessories,22,Charcoal,Fall,3.3,Yes,46,Monthly
+318,58,Male,Sweater,Clothing,82,Teal,Fall,4.3,Yes,42,Every 3 Months
+319,45,Male,Backpack,Accessories,67,Beige,Winter,2.5,Yes,10,Annually
+320,47,Male,Shorts,Clothing,74,White,Spring,2.6,Yes,1,Every 3 Months
+321,66,Male,Jewelry,Accessories,72,White,Summer,4.9,Yes,28,Quarterly
+322,41,Male,Sneakers,Footwear,36,Orange,Summer,4.7,Yes,48,Quarterly
+323,41,Male,Belt,Accessories,95,Cyan,Winter,3,Yes,47,Monthly
+324,66,Male,Hoodie,Clothing,78,Orange,Winter,3.5,Yes,29,Bi-Weekly
+325,37,Male,Shirt,Clothing,82,Olive,Summer,4.8,Yes,37,Quarterly
+326,70,Male,Pants,Clothing,70,Charcoal,Winter,4.3,Yes,38,Annually
+327,62,Male,Scarf,Accessories,41,White,Fall,3.2,Yes,48,Weekly
+328,61,Male,Coat,Outerwear,42,Teal,Summer,3.1,Yes,36,Weekly
+329,48,Male,Coat,Outerwear,50,Yellow,Fall,2.8,Yes,9,Weekly
+330,70,Male,Socks,Clothing,31,White,Summer,2.9,Yes,34,Monthly
+331,46,Male,Sweater,Clothing,51,Beige,Winter,3.7,Yes,43,Bi-Weekly
+332,31,Male,Shirt,Clothing,98,Beige,Fall,3.3,Yes,46,Quarterly
+333,19,Male,Shirt,Clothing,86,Maroon,Winter,2.8,Yes,5,Monthly
+334,39,Male,Sweater,Clothing,64,Teal,Winter,4.5,Yes,15,Bi-Weekly
+335,41,Male,Blouse,Clothing,46,Lavender,Fall,2.6,Yes,30,Annually
+336,20,Male,Sweater,Clothing,85,Maroon,Spring,3.7,Yes,44,Every 3 Months
+337,36,Male,Hat,Accessories,81,Orange,Fall,4.4,Yes,16,Annually
+338,32,Male,Sweater,Clothing,59,Cyan,Winter,4.3,Yes,16,Annually
+339,69,Male,Hoodie,Clothing,79,Silver,Winter,3.5,Yes,16,Weekly
+340,40,Male,Shorts,Clothing,33,Teal,Spring,3.8,Yes,21,Every 3 Months
+341,40,Male,Shorts,Clothing,47,Blue,Summer,3.5,Yes,39,Every 3 Months
+342,20,Male,Hat,Accessories,20,Blue,Summer,4.6,Yes,40,Bi-Weekly
+343,64,Male,Coat,Outerwear,36,Olive,Spring,2.6,Yes,48,Every 3 Months
+344,27,Male,Sandals,Footwear,39,Purple,Summer,4.4,Yes,26,Monthly
+345,24,Male,Skirt,Clothing,71,Charcoal,Winter,4,Yes,46,Monthly
+346,48,Male,Shoes,Footwear,59,Olive,Winter,4.4,Yes,27,Annually
+347,49,Male,Jeans,Clothing,50,Violet,Spring,4.7,Yes,5,Weekly
+348,36,Male,Sandals,Footwear,41,Red,Fall,3.9,Yes,43,Fortnightly
+349,56,Male,Blouse,Clothing,59,Beige,Fall,2.7,Yes,17,Fortnightly
+350,37,Male,Hat,Accessories,87,Green,Winter,3.7,Yes,3,Bi-Weekly
