@@ -10,7 +10,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, classification_report
 
-df = pd.read_csv("./shopping_trends.csv")
+df = pd.read_csv("shopping_trends.csv")
 
 print(df.info())
 print(df.head())
